@@ -1,5 +1,5 @@
 Image-Based Entity Value Extraction Using EasyOCR
-📌 Project Overview
+
 
 This project implements an image-based entity value extraction system using Optical Character Recognition (OCR).
 
